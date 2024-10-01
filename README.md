@@ -1,7 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-## Name: P Keerthana
-## Ref.No: 212223240069
+## Name: NARRA RAMYA
+## Ref.No: 212223040128
 # AIM:
 To write a C program that receives a message from message queue and display them
 
@@ -107,7 +107,9 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/Jeshwanthkumarpayyavula/Linux-IPC-Message-Queues/assets/145742402/dde14d92-1b23-4015-af34-0699229cd853)
+
+![image](https://github.com/user-attachments/assets/0cd3bf73-41db-40cc-96e3-0176a6e54076)
+
 
 
 
